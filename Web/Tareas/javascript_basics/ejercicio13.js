@@ -19,7 +19,7 @@ function cadenaMasFrecuente (listaCadenas)
         {
             maxKey = listaCadenas[i]
             maxValue = hashModa[listaCadenas[i]]
-        }
+        } 
     }
 
     return maxKey;

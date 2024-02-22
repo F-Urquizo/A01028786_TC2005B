@@ -12,4 +12,4 @@ function esPotencia (num)
     }
 }
 
-console.log(esPotencia(6))
+console.log(esPotencia(6)) 

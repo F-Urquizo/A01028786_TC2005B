@@ -14,5 +14,5 @@ function factores (entero)
     }
     return factors;
 }
-
+ 
 console.log(factores(12))

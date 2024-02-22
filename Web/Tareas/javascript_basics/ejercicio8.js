@@ -12,7 +12,7 @@ function quitaDuplicados(lista)
             duplicadosHash[lista[i]] = 1
         }
         else
-        {
+        { 
             duplicadosHash[lista[i]] += 1;
         }
         

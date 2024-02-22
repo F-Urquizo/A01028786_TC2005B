@@ -11,4 +11,4 @@ function mcd(num1, num2)
     return num1;
 }
 
-console.log(mcd(24, 36))
+console.log(mcd(24, 36)) 

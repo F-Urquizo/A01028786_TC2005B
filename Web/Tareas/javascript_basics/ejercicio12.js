@@ -24,7 +24,7 @@ function medianaYModa (listaNumeros)
     }
 
     // Mediana
-    let median;
+    let median; 
     listaNumeros.sort(function(a, b) {
         return a - b;
     });

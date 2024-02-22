@@ -15,7 +15,7 @@ function bubbleSort(lista)
             }
         }
     }
-    return lista
+    return lista 
 }
 
 console.log(bubbleSort([5,2,4,1,3]));

@@ -13,4 +13,4 @@ function cadenaMasCorta (listaCadenas)
     return min;
 }
 
-console.log(cadenaMasCorta(['hola', 'adios', 'hasta luego']))
+console.log(cadenaMasCorta(['hola', 'adios', 'hasta luego'])) 

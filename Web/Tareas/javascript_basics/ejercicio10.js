@@ -17,4 +17,4 @@ function esPalindromo (cadena)
     return true
 }
 
-console.log(esPalindromo("yosoy"))
+console.log(esPalindromo("yosoy")) 

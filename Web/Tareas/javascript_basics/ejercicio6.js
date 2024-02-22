@@ -19,4 +19,4 @@ function toHackerSpeak (cadena)
     return result;
 }
 
-console.log(toHackerSpeak("Javascript es divertido"))
+console.log(toHackerSpeak("Javascript es divertido")) 

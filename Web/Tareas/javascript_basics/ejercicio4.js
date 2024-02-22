@@ -7,7 +7,7 @@ function capString(cadena)
     while (i < cadena.length)
     {
         if (i == 0)
-        {
+        { 
             cadena2 += cadena[i].toUpperCase()
             i++
         }

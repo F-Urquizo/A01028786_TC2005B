@@ -11,7 +11,7 @@ function primerCaracter(texto)
         }
         else
         {
-            hashmap[texto[i]] = 1;
+            hashmap[texto[i]] = 1; 
         }
     }
 
