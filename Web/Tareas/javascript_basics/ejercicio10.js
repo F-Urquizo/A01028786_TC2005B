@@ -11,10 +11,28 @@ function esPalindromo (cadena)
         {
             return false;
         }
-        i++;
-        j--;
+        
+        if (cadena[i + 1] == " ")
+        {
+            i++;
+            i++;
+        }
+        else
+        {
+            i++;
+        }
+
+        if (cadena[j - 1] == " ")
+        {
+            j--;
+            j--;
+        }
+        else
+        {
+            j--;
+        }
     }
     return true
 }
 
-console.log(esPalindromo("yosoy"))
+console.log(esPalindromo("yo soy"))
