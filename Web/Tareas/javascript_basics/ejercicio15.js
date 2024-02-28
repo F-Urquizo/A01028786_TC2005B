@@ -8,5 +8,5 @@ function numerosDescendente (listaNumeros)
     });
     return listaNumeros;
 }
-
+ 
 console.log(numerosDescendente([1, 2, 3, 4, 5])) 

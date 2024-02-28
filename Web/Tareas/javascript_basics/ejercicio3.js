@@ -3,7 +3,7 @@
 function invertArray(lista)
 {
     let i = 0; 
-    let j = lista.length - 1;
+    let j = lista.length - 1; 
     let tmp;
     while (i <= j)
     {

@@ -13,7 +13,7 @@ function cadenaMasFrecuente (listaCadenas)
         }
         else
         {
-            hashModa[listaCadenas[i]] += 1;
+            hashModa[listaCadenas[i]] += 1; 
         }
         if (hashModa[listaCadenas[i]] > maxValue)
         {

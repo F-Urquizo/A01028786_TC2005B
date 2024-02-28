@@ -13,7 +13,7 @@ function quitaDuplicados(lista)
         }
         else
         { 
-            duplicadosHash[lista[i]] += 1;
+            duplicadosHash[lista[i]] += 1; 
         }
         
     }

@@ -1,7 +1,7 @@
 "use strict"
 
-function primerCaracter(texto)
-{
+function primerCaracter(texto) 
+{ 
     let hashmap = {};
     for (let i = 0; i < texto.length; ++i)
     {

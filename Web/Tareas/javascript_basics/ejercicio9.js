@@ -10,7 +10,7 @@ function cadenaMasCorta (listaCadenas)
             min = listaCadenas[i];
         }
     }
-    return min;
+    return min; 
 }
 
 console.log(cadenaMasCorta(['hola', 'adios', 'hasta luego'])) 

@@ -3,7 +3,7 @@
 function bubbleSort(lista)
 {
     let temp;
-    for (let i = 0; i < lista.length; i++)
+    for (let i = 0; i < lista.length; i++) 
     {
         for (let j = 0; j < lista.length; j++)
         {

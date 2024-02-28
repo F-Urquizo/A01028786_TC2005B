@@ -11,7 +11,7 @@ function toHackerSpeak (cadena)
         {
             result += hackerHash[cadena[i]];
         }
-        else
+        else 
         {
             result += cadena[i];
         }

@@ -6,7 +6,7 @@ function factores (entero)
     let i = 0;
     while (i <= entero)
     {
-        if (entero % i == 0)
+        if (entero % i == 0) 
         {
             factors.push(i)
         }

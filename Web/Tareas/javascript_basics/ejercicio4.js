@@ -4,7 +4,7 @@ function capString(cadena)
 {
     let cadena2 = ""
     let i = 0
-    while (i < cadena.length)
+    while (i < cadena.length) 
     {
         if (i == 0)
         { 
