@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 5b2ca5724e2954f7cbf22c9d8c156f89
+  - enabled: 1
+    path: Assets/Scenes/Simon.unity
+    guid: 9cc8d3feed37b42ed97720b1e1275d04
+  - enabled: 1
+    path: Assets/Scenes/SimonResults.unity
+    guid: 91d71b134c7374f8c8e353816270b4bb
   m_configObjects: {}
